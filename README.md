@@ -4,7 +4,7 @@
 
 # Steps to run programs on local Machine or Computer
 1. Install java TLS on machine
-2. go to the program or project directory and open command promp
+2. go to the program or project directory and open command prompt
 3. type javac <Program Name.java> and hit enter
 4. type java <Program Name>
 
